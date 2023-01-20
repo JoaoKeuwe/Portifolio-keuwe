@@ -394,7 +394,8 @@ footer{
     @keyframes navLinkFade {
         from{
             opacity: 0;
-            transform: translateX(50px);
+            transform: translateX(5
+            0px);
         }
         to{
             opacity: 1;
