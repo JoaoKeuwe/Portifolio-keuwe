@@ -34,7 +34,7 @@ header{
 .mobile-menu div{
     width: 32px;
     height: 2px;
-    background-color: rgba(49, 74, 99, 0.7);
+    background-color: rgb(255, 255, 255);
     margin: 8px;
     transition: 0.3s;
 }
@@ -42,7 +42,7 @@ header{
 header ul{
     position: relative;
     display: flex;
-    background-color: rgba(210, 220, 230, 0.7);
+    background-color: rgb(210, 220, 230);
     padding: 10px 20px;
     border: none;
     border-radius: 40px;
@@ -168,7 +168,6 @@ body{
 .heading{
     width: 100%;
     text-align: center;
-    
     color: #111;
 }
 
