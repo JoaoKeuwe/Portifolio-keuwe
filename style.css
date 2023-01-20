@@ -157,6 +157,7 @@ body{
 .heading h2{
     text-transform: uppercase;
     color: #65ffd1;
+    margin-bottom: 40px;
     font-weight: 600;
     font-size: 45px;
     text-align: center;
