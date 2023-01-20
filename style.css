@@ -140,7 +140,6 @@ body{
 
 /*********************** SOBRE *****************/
 
-
 .barra {
     color: #65ffd1;
     font-weight: bold;
@@ -279,7 +278,7 @@ hr{
 
 .projetos .content .casos img{
     max-width: 100%;
-    border-radius: 10px; /*100%*/
+    border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
