@@ -423,6 +423,7 @@ footer {
     transition: transform 0.4s ease-in-out;
   }
 
+
   .menu a {
     color: #bce5d3;
   }
@@ -599,9 +600,16 @@ footer {
     align-items: stretch;
   }
 
-  .image-2 {
-    display: none;
-  }
+ 
+}
+
+@media (max-width: 1270px) {
+
+.avatar2 {
+    display: block;
+}
+
+ 
 }
 
 @media screen and (max-width: 600px) {
