@@ -406,7 +406,9 @@ footer {
   body {
     overflow-x: hidden;
   }
-
+.avatares {
+    display: none;
+}
   /*********************** HEADER *****************/
   .menu {
     position: absolute;
